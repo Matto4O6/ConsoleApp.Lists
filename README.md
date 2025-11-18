@@ -1,2 +1,2 @@
 # ConsoleApp.Lists
-Some bried examples of Lists in C#
+Some brief examples of lists in C#
